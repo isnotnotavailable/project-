@@ -1,0 +1,38 @@
+body
+{
+    font-family:'specialElite', cursive;
+    background: rgb(255, 136, 0);
+}
+
+.header_div
+{
+    background: rgb(0, 25, 248);
+    color: red
+}
+
+.header_div p{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(238, 0, 0);
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.main_div buttion{
+    font-family: 'Robboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color:grey;
+    bottom: 0;
+    width:100%;
+    font-size:18px;
+    background-color: white;
+    line-height: 3;
+    text-align:center;
+    text-shaow: 5px 5px 5px rgb(151, 149, 149)
+}
